@@ -1,4 +1,4 @@
-# Sample Snack app
+# Pokedex
 
 Desenvolvimento simples de um app em react-native com:
 
